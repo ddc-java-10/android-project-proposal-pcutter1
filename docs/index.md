@@ -27,35 +27,35 @@ _Weather or Not_ is an alarm clock designed for anyone who has to be somewhere o
 
 User will be able to:
 
-    * Input / edit the location of departure and arrival
-    * Select their preferred route of travel
-    * Select their preferred time of arrival
-    * Select the amount of time they would like between the alarm going off and their recommended time of departure
-    * Select from multiple alarm styles and sounds
+* Input / edit the location of departure and arrival
+* Select their preferred route of travel
+* Select their preferred time of arrival
+* Select the amount of time they would like between the alarm going off and their recommended time of departure
+* Select from multiple alarm styles and sounds
 
 
 
 ## Persistent data
 
-    * Departure and arrival locations
-    * Arrival time Preferences
-    * Alarm style/sound preferences
-    * Alarm-to-departure time preferences
+* Departure and arrival locations
+* Arrival time Preferences
+* Alarm style/sound preferences
+* Alarm-to-departure time preferences
 
 
 
 ## Device/external services
 
-    * Android [AlarmManager API] (https://developer.android.com/reference/android/app/AlarmManager)
-    * [Google Directions API] (https://developers.google.com/maps/documentation/directions/intro)
-    * Contacts information
-    
+* Android [AlarmManager API](https://developer.android.com/reference/android/app/AlarmManager)
+* [Google Maps - Directions API](https://developers.google.com/maps/documentation/directions/intro)
+* Contacts information
+
 
 ## Stretch goals/possible enhancements
 
-    * Snooze function
-    * Labels for departure and arrival locations (e.g. Work, Home, Mom's, etc.)
-    * Receive a notification at the suggested time of departure
-    * Be able to label different alarms
-    * Be able to save different alarms for different days of the week
-    * Import locations from Contacts info
+* Snooze function
+* Labels for departure and arrival locations (e.g. Work, Home, Mom's, etc.)
+* Receive a notification at the suggested time of departure
+* Be able to label different alarms
+* Be able to save different alarms for different days of the week
+* Import locations from Contacts info
