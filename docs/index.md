@@ -29,7 +29,7 @@ User will be able to:
 
 * Input / edit the location of departure and arrival
 * Select their preferred route of travel
-* Select their preferred time of arrival
+* Select their preferred time of arrival and receive a recommended departure time
 * Select the amount of time they would like between the alarm going off and their recommended time of departure
 * Select from multiple alarm styles and sounds
 
@@ -47,7 +47,7 @@ User will be able to:
 ## Device/external services
 
 * Android [AlarmManager API](https://developer.android.com/reference/android/app/AlarmManager)
-* [Google Maps - Directions API](https://developers.google.com/maps/documentation/directions/intro)
+* [Google Maps - Routes API](https://cloud.google.com/maps-platform/routes)
 * Contacts information
 
 
