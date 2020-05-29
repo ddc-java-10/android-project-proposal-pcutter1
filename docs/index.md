@@ -46,8 +46,9 @@ User will be able to:
 
 ## Device/external services
 
-* Android [AlarmManager API](https://developer.android.com/reference/android/app/AlarmManager)
+* [Android AlarmManager API](https://developer.android.com/reference/android/app/AlarmManager)
 * [Google Maps - Routes API](https://cloud.google.com/maps-platform/routes)
+* [Google Maps - Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/intro)
 * Contacts information
 
 
